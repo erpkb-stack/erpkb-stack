@@ -115,7 +115,7 @@ I am passionate about leveraging artificial intelligence and modern software eng
 
 GitHub: https://github.com/erpkb-stack
 
-LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/in/erpkb/)
+LinkedIn: [LinkedIn profile URL](https://www.linkedin.com/in/erpkb/)
 
 Email: erpkb.sharma@gmail.com
 
